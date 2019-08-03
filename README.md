@@ -11,5 +11,15 @@ Development:
 @Thank you to all our users who have allowed us to use their photos. 
 
 
-<img src="https://github.com/cs210/BMW-2/blob/amicus-standalone/Public/no_git_photo.png?raw=true" alt="Sharman Tan" width="125"> 
+1. UI/UX Sample 
+![UI UX sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/UI:UX%20sample%202.png)
 
+![UI UX sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/UI:UX%20sample.png)
+
+
+2. Facial Recognition Technology
+
+![Technology sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/AI%20Technology.png)
+
+
+3. 
