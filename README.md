@@ -2,6 +2,9 @@
 
 Description: Alice is a photo-selfie app that generates an avatar. Users can change their avatar outfits, stick them on a variety of sticker backgrounds and paste those stickers on their photos. 
 
+![sticker sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/gucci.jpg)
+
+
 Development: 
 - Android Java Programming 
 - Unity C++ Android integration
@@ -23,4 +26,7 @@ Development:
 ![Technology sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/AI%20Technology.png)
 
 
-3. 
+3. Video/Camera function infrastructure
+
+![camera sample](https://github.com/jangj8523/Alice/blob/master/Demo%20files/Take%20photos.png)
+
