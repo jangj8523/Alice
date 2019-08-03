@@ -8,7 +8,8 @@ Development:
 - Unity Anima 2D plugin for character rigging 
 - Dlib Library for face detection
 
-@Thank you to all our users who have allowed us to use their photos. 
+@Thank you to all our users who have allowed us to use their photos. The latest video demo files can be found in DemoFiles folder
+
 
 
 1. UI/UX Sample 
